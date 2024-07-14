@@ -1,3 +1,4 @@
-#### A react Frontend UI Dashboad
+#### A react Frontend UI Dashboard
 
-<img className="w-full" src="./readme-image/Dashboard.mp4">
+https://github.com/user-attachments/assets/12ca92e0-8e39-45c6-908e-3d9ea95d4e88
+
